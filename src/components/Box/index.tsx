@@ -79,7 +79,7 @@ export function FullWidthBox({ title, subtitle }: { title: string, subtitle: str
       <Link to="/comprar">
       <button
         style={{
-          width: "370%",
+          width: "500%",
           backgroundColor: "white", 
           color: "#4658E0", 
           border: "1px solid #4658E0",
