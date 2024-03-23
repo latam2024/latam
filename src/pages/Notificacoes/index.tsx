@@ -21,7 +21,7 @@ export default function Comprar() {
           fontWeight: "bold", 
         }}
       >
-        Você não tem nenhuma notificação!
+        Você não tem nenhuma notificação! vai si fuder
       </div>
     </div>
   );
