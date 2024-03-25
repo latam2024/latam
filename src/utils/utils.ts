@@ -5,4 +5,4 @@ export const cpfDict: { [key: string]: string; default: string } = {
   "111.111.111-11": "Pedro da Silva",
   "111.111.111-01": "Pedro da Silva",
   default: "Usuário",
-};
+}
