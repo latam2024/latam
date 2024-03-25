@@ -3,6 +3,6 @@ export const cpfDict: { [key: string]: string; default: string } = {
   "123.456.789-10": "Maria da Silva",
   "987.654.321-00": "José da Silva",
   "111.111.111-11": "Pedro da Silva",
-  "111.111.111-01": "Pedro da Silva"
+  "111.111.111-01": "Pedro da Silva",
   default: "Usuário",
 };
